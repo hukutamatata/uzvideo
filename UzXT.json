@@ -1,0 +1,107 @@
+[
+ 
+    {
+        "name": "[嗅]HDmoli",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/moli.js",
+        "webSite": "https://hdmoli.pro",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]八号影视",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/%E5%85%AB%E5%8F%B7.js",
+        "webSite": "https://www.bahaotv.com",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]播剧影视",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/boju.js",
+        "webSite": "https://www.boju.cc",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]里里影院",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/lili.js",
+        "webSite": "https://www.liic.cc",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]爱壹帆",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/ai.js",
+        "webSite": "https://www.iyf.lv",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]泥视频",
+        "api": "https://gh-proxy.com/https://zyou.pages.dev/CC/呢.js",
+        "webSite": "https://www.nivod.vip",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]海纳TV",
+        "api": "https://gh-proxy.com/https://zyou.pages.dev/CC/海纳.js",
+        "webSite": "https://www.hainatv.net",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]影视工厂",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/%E5%B7%A5%E5%8E%82.js",
+        "webSite": "https://www.ysgc.fun",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]老王电影",
+        "api": "https://gh-proxy.com/https://zyou.pages.dev/CC/老王.js",
+        "webSite": "https://laowang.co",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]BILFUN",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/Blf.js",
+        "webSite": "https://bilfun.cc",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]VidHub",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/Vid.js",
+        "webSite": "https://vidhub3.top",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]88影视网",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/88.js",
+        "webSite": "https://www.88mv.org",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    },
+    {
+        "name": "[嗅]新视觉影院",
+        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/%E6%96%B0%E8%A7%86%E8%A7%89%E5%BD%B1%E8%A7%86.js",
+        "webSite": "https://www.sypfjy.com",
+        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
+        "version": "1",
+        "type": 101
+    }
+]
